@@ -58,13 +58,13 @@ li a:hover{
 	background-size: cover;
 }
 
-#para0 {background-image: url("..\thumbs.jpg");height: 80%;}
-#para1 {background-image: url("..\smile.jpg");height: 60%;}
+#para0 {background-image: url("..\\thumbs.jpg");height: 80%;}
+#para1 {background-image: url("..\\smile.jpg");height: 60%;}
 
 #what {
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-image: url("..\logo.png"), url("..\what.jpg");
+  background-image: url("..\\logo.png"), url("..\\what.jpg");
   background-size: 200px, cover;
   background-position: 30% 50%, top left;
   height: 100%;
