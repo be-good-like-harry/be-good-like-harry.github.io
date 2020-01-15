@@ -59,7 +59,7 @@ li a:hover{
 	background-position: top;
 }
 
-#para0 {background-image: url("..\\thumbs.jpg");height: 80%;}
+#para0 {background-image: url("..\\thumbs.jpg");height: 80%;background-position: 85% 0;}
 #para1 {background-image: url("..\\smile.jpg");height: 60%;}
 
 #what {
