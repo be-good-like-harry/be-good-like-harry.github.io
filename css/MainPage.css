@@ -56,6 +56,7 @@ li a:hover{
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 }
 
 #para0 {background-image: url("..\\thumbs.jpg");height: 80%;}
