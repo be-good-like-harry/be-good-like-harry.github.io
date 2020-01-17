@@ -126,4 +126,19 @@ input[type=submit]:hover {
     width: 100%;
     margin-top: 0;
   }
+	
+  .para {
+	background-attachment: unset;
+	background-size: 110%;
+	background-position: center;
+  }
+
+  #what {
+    background-attachment: unset;
+    background-repeat: no-repeat;
+    background-image: url("logo.png"), url("what.jpg");
+    background-size: 200px, unset;
+    background-position: 30% 50%, 50%;
+    height: 100%;
+  }
 }
