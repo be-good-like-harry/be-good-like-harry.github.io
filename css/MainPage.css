@@ -136,7 +136,6 @@ input[type=submit]:hover {
   #what {
     background-attachment: unset;
     background-repeat: no-repeat;
-    background-image: url("logo.png"), url("what.jpg");
     background-size: 200px, unset;
     background-position: 30% 50%, 50%;
     height: 100%;
